@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Spring framework**
 
-- 👯 I’m looking to collaborate on **Flutter**
-
 - 💬 Ask me about **flutter, dart, java**
 
 <h3 align="left">Connect with me:</h3>
